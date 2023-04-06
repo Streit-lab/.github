@@ -21,13 +21,6 @@ You can analyse data immediately without using GitHub. However, GitHub helps in 
 
 Even though GitHub was primarily designed with collaboration in mind, it is good practice to use it for your own code and will make your life significantly easier in the long run - **trust me, I learned the hard way!**
 
-<br>
-
-<br>
-
-<p>
-  <img src='https://github.com/Streit-lab-training/group-getting-started/blob/master/images/gitkraken_logo.png' width="35%"/>
-</p>
 
 ***
 
