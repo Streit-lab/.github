@@ -9,7 +9,7 @@ This is a github space for Streit-lab NGS repositories.
 <br>
 
 <p>
-  <img src='https://github.com/Streit-lab-training/group-getting-started/blob/master/images/github_logo.png' width="20%"/>
+  <img src='https://github.com/Streit-lab-training/group-getting-started/blob/master/images/github_logo.png' width="10%"/>
 </p>
 
 ***
@@ -19,7 +19,7 @@ You can analyse data immediately without using GitHub. However, GitHub helps in 
 * It allows you to easily share and document your code
 * You can collaborate on code through creating multiple branches.
 
-Even though GitHub was primarily designed with collaboration in mind, it is good practice to use it for your own code and will make your life significantly easier in the long run - **trust me, I learned the hard way!**
+Even though GitHub was primarily designed with collaboration in mind, it is good practice to use it for your own code and will make your life significantly easier in the long run
 
 
 ***
