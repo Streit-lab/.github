@@ -2,11 +2,9 @@
 
 This is a github space for Streit-lab NGS repositories. 
 
-*What is Github?*
-
 <br>
 
-<br>
+# *What is Github?*
 
 <p>
   <img src='https://github.com/Streit-lab-training/group-getting-started/blob/master/images/github_logo.png' width="10%"/>
