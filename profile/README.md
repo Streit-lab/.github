@@ -1,10 +1,10 @@
 # Streit Lab
 
-This is a github space for Streit-lab NGS repositories. 
+This is a github space for storing Streit Lab NGS repositories. 
 
 <br>
 
-# *What is Github?*
+## *What is Github?*
 
 <p>
   <img src='https://github.com/Streit-lab-training/group-getting-started/blob/master/images/github_logo.png' width="10%"/>
