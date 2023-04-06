@@ -1,4 +1,4 @@
-# Streit Lab GitHub landing page
+# Streit Lab
 
 This is a github space for Streit-lab NGS repositories. 
 
