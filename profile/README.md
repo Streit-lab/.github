@@ -1,1 +1,38 @@
 # Streit Lab GitHub landing page
+
+This is a github space for Streit-lab NGS repositories. 
+
+*What is Github?*
+
+<br>
+
+<br>
+
+<p>
+  <img src='https://github.com/Streit-lab-training/group-getting-started/blob/master/images/github_logo.png' width="20%"/>
+</p>
+
+***
+
+You can analyse data immediately without using GitHub. However, GitHub helps in a few ways:
+* It has [version control](https://www.youtube.com/watch?v=9GKpbI1siow) which keeps a record of any changes you make
+* It allows you to easily share and document your code
+* You can collaborate on code through creating multiple branches.
+
+Even though GitHub was primarily designed with collaboration in mind, it is good practice to use it for your own code and will make your life significantly easier in the long run - **trust me, I learned the hard way!**
+
+<br>
+
+<br>
+
+<p>
+  <img src='https://github.com/Streit-lab-training/group-getting-started/blob/master/images/gitkraken_logo.png' width="35%"/>
+</p>
+
+***
+
+If you have NGS data please:
+1) Make a Github account
+2) Ask Eva or Andrea to give you access to the repository
+
+***
